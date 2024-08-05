@@ -1,4 +1,4 @@
 # My-First-Repo
 <B> Author:-Mustafa Kanchwala <br>
-College:- Institute of Management Research and Dvelopement(I.M.R.D)<br>
+College:- (I.M.R.D)Institute of Management Research and Dvelopement<br>
 Occupation:- Student.
